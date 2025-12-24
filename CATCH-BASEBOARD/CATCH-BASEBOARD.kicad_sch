@@ -4156,7 +4156,7 @@
 	)
 	(global_label "SCL"
 		(shape input)
-		(at 39.37 123.19 180)
+		(at 39.37 120.65 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4166,7 +4166,7 @@
 		)
 		(uuid "4f9f325c-4385-45bc-9aa6-59e8d75abfac")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 32.8772 123.19 0)
+			(at 32.8772 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4420,7 +4420,7 @@
 	)
 	(global_label "SDA"
 		(shape input)
-		(at 39.37 120.65 180)
+		(at 39.37 123.19 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4430,7 +4430,7 @@
 		)
 		(uuid "b4be680c-9e65-4fda-b9bd-afaf796238d6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 32.8167 120.65 0)
+			(at 32.8167 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6063,7 +6063,6 @@
 	(symbol
 		(lib_id "Isolator:PC817")
 		(at 43.18 179.07 0)
-		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6087,7 +6086,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-4_W7.62mm"
-			(at 48.26 184.15 0)
+			(at 38.1 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
